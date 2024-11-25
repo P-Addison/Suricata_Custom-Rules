@@ -1,4 +1,4 @@
-# Suricata Custom Rules
+# Applying Custom Rules in Suricata
 
 ## Scenario  
 
